@@ -2,7 +2,7 @@
 
 # AND101 Project 1 - Hello, Squirrel!
 
-Submitted by: **Your Name Here**
+Submitted by: **Prabhdeep Brar**
 
 Time spent: **X** hours spent in total
 
@@ -35,9 +35,10 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://user-images.githubusercontent.com/96799357/222636314-b80a6553-9e55-406b-acfe-d60161258bc3.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **ScreenToGif**
+
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -50,7 +51,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2023** **Prabhdeep Brar**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
