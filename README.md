@@ -38,6 +38,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
+![Gif of](https://user-images.githubusercontent.com/96799357/222636314-b80a6553-9e55-406b-acfe-d60161258bc3.gif)
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
