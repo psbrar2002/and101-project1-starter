@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Hello Squirrel</string>
 
-    <string name="first_name">FIRST</string>
+    <string name="first_name">Prabhdeep</string>
     <string name="last_name">LAST</string>
     <string name="full_name">%s %s</string>
 
