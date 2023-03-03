@@ -2,13 +2,13 @@
     <string name="app_name">Hello Squirrel</string>
 
     <string name="first_name">Prabhdeep</string>
-    <string name="last_name">LAST</string>
+    <string name="last_name">Brar</string>
     <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text">This a short bio about myself.\nIt has multiple lines because I am\na complex being.</string>
+    <string name="profile_bio_text">Hi! I am a third-year Computer Science student at CSUEB .I am very interested in app development and in the art of creating.I love learning new things!</string>
 
     <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
-    <string name="profile_hobby_first_text">🥇 FIRST HOBBY</string>
-    <string name="profile_hobby_second_text">🥈 SECOND HOBBY</string>
-    <string name="profile_hobby_third_text">🥉 THIRD HOBBY</string>
+    <string name="profile_hobby_first_text">🥇 Playing Basketball</string>
+    <string name="profile_hobby_second_text">🥈 Solving Rubiks Cubes</string>
+    <string name="profile_hobby_third_text">🥉 Reading</string>
 </resources>
