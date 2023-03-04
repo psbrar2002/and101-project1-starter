@@ -10,7 +10,7 @@ Time spent: **6+** hours spent in total
 
 **Namecard** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **It is capable of allowing you to state your name, bio, and top 3 favorite hobbies with a custom background of your choice.**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **😎🧠🙂**
 
 ## Application Features
 
