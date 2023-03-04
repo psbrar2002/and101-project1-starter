@@ -8,7 +8,7 @@ Time spent: **6** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+**Namecard** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **It is capable of allowing you to state your name, bio, and top 3 favorite hobbies with a custom background of your choice.**
 
 If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
@@ -29,7 +29,7 @@ The following STRETCH features are implemented:
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [x] Improved the UI by adding an avatar and background.
 
 ## Video Demo
 
@@ -46,8 +46,7 @@ GIF created with **ScreenToGif**
 - [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+In this unit I was able to familiarize myself with Android Studio and recall how git works as the last time I got to use git was for a Data Structures assignment a while ago. I also learned how to utilize an emulator and view code through design and so much more it was so interesting to see. I was also able to learn a bit more about UI customization and Kotlin overall.
 
 ## License
 
